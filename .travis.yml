@@ -68,7 +68,6 @@ requires:
     - clang
     - gcc
     - git
-    - gobject-introspection
     - intltool
     - itstool
     - libcanberra
@@ -92,7 +91,6 @@ requires:
     - cppcheck
     - gir1.2-freedesktop
     - git
-    - gobject-introspection
     - gtk-doc-tools
     - intltool
     - libatk1.0-dev
@@ -128,7 +126,6 @@ requires:
     - desktop-file-utils
     - gcc
     - git
-    - gobject-introspection-devel
     - gtk3-devel
     - libSM-devel
     - libcanberra-devel
@@ -149,7 +146,6 @@ requires:
     - clang-tools
     - gir1.2-freedesktop
     - git
-    - gobject-introspection
     - gtk-doc-tools
     - intltool
     - libatk1.0-dev
